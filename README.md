@@ -10,10 +10,20 @@
 My name is Muharrem Köroğlu from Turkey. As a second year computer engineering student, I really enjoy learning new programming languages and technologies. I continue to work on mobile applications and games. I am very happy to share what I have learned with you.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+<div class="row">
+      <div class="column">
+<img width ='32px' src 
+     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
+<img width ='32px' src 
+     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px' src 
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'>
+<img width ='32px' src 
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'>
+<img width ='32px' src 
+     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+  </div>
+</div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/muharremkoroglu//'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
