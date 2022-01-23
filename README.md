@@ -7,7 +7,7 @@
 ### Thank You for taking the time to view my GitHub Profile 
 
 ## <h2> About Me <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = 32px></h2>
-My name is Muharrem Köroğlu from Turkey. As a second year computer engineering student, I really enjoy learning new programming languages and technologies. I continue to work on mobile applications and games. I am very happy to share what I have learned with you.
+My name is Muharrem Köroğlu from Turkey. As a second year computer engineering student, I really enjoy learning new programming languages and technologies. I continue working on mobile applications and games. I am very happy to share what I have learned with you.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div class="row">
