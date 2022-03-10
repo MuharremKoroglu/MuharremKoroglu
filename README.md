@@ -33,4 +33,3 @@ My name is Muharrem Köroğlu from Turkey. As a second year computer engineering
 <a href = 'https://muharremkoroglu.medium.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
   <a href="https://www.instagram.com/m.koroglu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._"  width="32px" align= 'center' /></a>
 
-https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg
