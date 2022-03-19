@@ -15,8 +15,6 @@ My name is Muharrem Köroğlu from Turkey. As a second year computer engineering
 <img width ='32px' src 
      ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'>
 <img width ='32px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'>
