@@ -13,22 +13,24 @@ My name is Muharrem Köroğlu from Turkey. As a second year computer engineering
 <div class="row">
       <div class="column">
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
+     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> &nbsp;
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'> &nbsp;
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'> &nbsp;
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> &nbsp;
 <img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg'> &nbsp;
+<img width ='32px' src 
+     ='"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"'> &nbsp;
   </div>
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
-<a href = 'https://www.linkedin.com/in/muharremkoroglu/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://muharremkoroglu.medium.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href="https://www.instagram.com/m.koroglu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._"  width="32px" align= 'center' /></a>
+<a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a> &nbsp;
+<a href = 'https://www.linkedin.com/in/muharremkoroglu/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
+<a href = 'https://muharremkoroglu.medium.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> &nbsp;
+<a href="https://www.instagram.com/m.koroglu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._"  width="32px" align= 'center' /></a> &nbsp;
 <a href = 'https://synta-x.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/internet-svgrepo-com%20(2).svg"/></a> 
 
