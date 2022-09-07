@@ -23,7 +23,7 @@ My name is Muharrem Köroğlu from Turkey. As a second year computer engineering
 <img width ='32px' src 
      ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/swift-icon.svg"> &nbsp;
 <img width ='32px' src 
-     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/apple_logo.svg"> &nbsp;
+     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/apple.svg"> &nbsp;
 <img width ='32px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg'> &nbsp;
 <img width ='32px' src 
