@@ -21,11 +21,15 @@ My name is Muharrem Köroğlu from Turkey. As a second year computer engineering
 <img width ='32px' src 
      ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> &nbsp;
 <img width ='32px' src 
+     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/swift-icon.svg"> &nbsp;
+<img width ='32px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg'> &nbsp;
 <img width ='32px' src 
      ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/Git_icon.svg"> &nbsp;
+
   </div>
 </div>
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a> &nbsp;
