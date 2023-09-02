@@ -11,9 +11,9 @@
 
 🚀 Throughout my academic journey in computer engineering, I've been honing my programming skills and diving deep into the world of software development. My focus? Crafting amazing iOS applications that delight users and solve real-world problems.
 
-📚 My GitHub is where you'll find the heart and soul of my coding adventures. I believe in the power of open-source collaboration, and I'm excited to share my projects and contribute to others'.
+📚 My GitHub is where you'll find the heart and soul of my coding adventures. I believe in the power of open-source collaboration, and I'm excited to share my projects and contribute to others.
 
-💡 From Swift and Objective-C to SwiftUI and beyond, I'm constantly exploring new tools, libraries, and techniques to create elegant, efficient, and user-friendly iOS apps. My repositories showcase my commitment to clean code, innovative solutions, and pixel-perfect UI/UX design.
+💡 From Swift UIKit to SwiftUI and beyond, I'm constantly exploring new tools, libraries, and techniques to create elegant, efficient, and user-friendly iOS apps. My repositories showcase my commitment to clean code, innovative solutions, and pixel-perfect UI/UX design.
 
 🛠️ I thrive on challenges and problem-solving. Whether it's building a custom UI component, optimizing performance, or integrating cutting-edge features, I'm always up for the task. Check out my repositories to see my projects, experiments, and code samples.
 
