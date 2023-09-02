@@ -1,57 +1,14 @@
-![Thank You for taking the time to view my GitHub Profile ](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)
+# 💫 About Me:
+👋 Hey there, I'm Muharrem, a computer engineering student with a passion for iOS Development and an insatiable curiosity for all things tech. 📱<br><br>🚀 Throughout my academic journey in computer engineering, I've been honing my programming skills and diving deep into the world of software development. My focus? Crafting amazing iOS applications that delight users and solve real-world problems.<br><br>📚 My GitHub is where you'll find the heart and soul of my coding adventures. I believe in the power of open-source collaboration, and I'm excited to share my projects and contribute to others.<br><br>💡 From Swift UIKit to SwiftUI and beyond, I'm constantly exploring new tools, libraries, and techniques to create elegant, efficient, and user-friendly iOS apps. My repositories showcase my commitment to clean code, innovative solutions, and pixel-perfect UI/UX design.<br><br>🛠️ I thrive on challenges and problem-solving. Whether it's building a custom UI component, optimizing performance, or integrating cutting-edge features, I'm always up for the task. Check out my repositories to see my projects, experiments, and code samples.<br><br>🌟 Collaboration is at the core of what I do. I'm open to collaboration on exciting iOS projects, and I'm eager to connect with fellow developers who share my passion. Let's code together and make the iOS app world even more amazing.<br><br>🌐 Feel free to explore my repositories, contribute to my projects, or reach out for collaboration opportunities. I'm here to learn, grow, and build great things with like-minded developers.<br><br>📧 You can reach my contact information from the "Socials" section and you can contact me at any time.
 
-# <h1> Hi there, I'm Muharrem <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "42"> </h1>
-<p align='center'>
-</p>
+## 🌐 Socials:
+[![Synta-X](https://img.shields.io/badge/Synta--X-100000?style=flat&logo=Wordpress&logoColor=white&labelColor=626262&color=626262)](https://synta-x.com/) [![Mail](https://img.shields.io/badge/Mail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=FF0000&color=FF0000)](mailto:koroglu.muharrem@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.koroglu99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muharremkoroglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muharremkoroglu) 
 
-### Thank You for taking the time to view my GitHub Profile 
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuharremKoroglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuharremKoroglu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuharremKoroglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## <h2> About Me <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = "42"></h2>
-👋 Hey there, I'm Muharrem, a computer engineering student with a passion for iOS Development and an insatiable curiosity for all things tech. 📱
-
-🚀 Throughout my academic journey in computer engineering, I've been honing my programming skills and diving deep into the world of software development. My focus? Crafting amazing iOS applications that delight users and solve real-world problems.
-
-📚 My GitHub is where you'll find the heart and soul of my coding adventures. I believe in the power of open-source collaboration, and I'm excited to share my projects and contribute to others.
-
-💡 From Swift UIKit to SwiftUI and beyond, I'm constantly exploring new tools, libraries, and techniques to create elegant, efficient, and user-friendly iOS apps. My repositories showcase my commitment to clean code, innovative solutions, and pixel-perfect UI/UX design.
-
-🛠️ I thrive on challenges and problem-solving. Whether it's building a custom UI component, optimizing performance, or integrating cutting-edge features, I'm always up for the task. Check out my repositories to see my projects, experiments, and code samples.
-
-🌟 Collaboration is at the core of what I do. I'm open to collaboration on exciting iOS projects, and I'm eager to connect with fellow developers who share my passion. Let's code together and make the iOS app world even more amazing.
-
-🌐 Feel free to explore my repositories, contribute to my projects, or reach out for collaboration opportunities. I'm here to learn, grow, and build great things with like-minded developers.
-
-📧 You can reach my contact information from the "Connect with me" section and you can contact me at any time.
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "42"> </h2>
-<div class="row">
-      <div class="column">
-<img width ='32px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> &nbsp;
-<img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/dartlang-icon.svg'> &nbsp;
-<img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'> &nbsp;
-<img width ='32px' src 
-     ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> &nbsp;
-<img width ='32px' src 
-     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/swift-icon.svg"> &nbsp;
-<img width ='32px' src 
-     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/apple.svg"> &nbsp;
-<img width ='32px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/wordpress-blue.svg'> &nbsp;
-<img width ='32px' src 
-     ="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/Git_icon.svg"> &nbsp;
-
-  </div>
-</div>
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<a href = 'mailto:koroglu.muharrem@hotmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a> &nbsp;
-<a href = 'https://www.linkedin.com/in/muharremkoroglu/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://muharremkoroglu.medium.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> &nbsp;
-<a href="https://www.instagram.com/m.koroglu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._"  width="32px" align= 'center' /></a> &nbsp;
-<a href = 'https://synta-x.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/internet-svgrepo-com%20(2).svg"/></a> 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
