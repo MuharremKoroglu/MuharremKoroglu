@@ -9,14 +9,34 @@
 
 # 📱 My Apps:
 
-<img align="left" width="150" height="150" src="https://github.com/MuharremKoroglu/MuharremKoroglu/assets/68854616/1072db6a-01bf-4edc-a65f-77dbc622a9c5">
-<be>
-
-**Purplai**
-
-Purplai is an innovative app that harnesses the power of artificial intelligence to bring your imagination to life. With Purplai, you can effortlessly transform your words into stunning images, all with the help of the advanced Stable Diffusion AI model.
-
-[Visit Purplai on App Store](https://apps.apple.com/us/app/purplai-ai-art-generator/id6479694808)
+<table>
+  <tbody>
+    <tr>
+      <td width="200" align="center" valign="middle">
+        <img width="150" height="150" src="https://github.com/user-attachments/assets/9a5355d7-7ab8-4849-8104-97065e168c6e">
+      </td>
+      <td valign="middle">
+        <strong>Alra</strong>
+        <br><br>
+        Alra is your personal guide to mindfulness, designed to help you find balance and inner peace. By understanding your mood and needs, Alra creates personalized meditations, breathing exercises, and inspiring reflections.
+        <br><br>
+        <a href="https://apps.apple.com/us/app/alra-ai-meditation-calm/id6741762817">Visit Alra on App Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" align="center" valign="middle">
+        <img width="150" height="150" src="https://github.com/MuharremKoroglu/MuharremKoroglu/assets/68854616/1072db6a-01bf-4edc-a65f-77dbc622a9c5">
+      </td>
+      <td valign="middle">
+        <strong>Purplai</strong>
+        <br><br>
+        Purplai is an innovative app that harnesses the power of artificial intelligence to bring your imagination to life. With Purplai, you can effortlessly transform your words into stunning images, all with the help of the advanced Stable Diffusion AI model.
+        <br><br>
+        <a href="https://apps.apple.com/us/app/purplai-ai-art-generator/id6479694808">Visit Purplai on App Store</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 # 📊 GitHub Stats:
